@@ -1,5 +1,5 @@
 # clear-friends
-Simple script to clear friendships from a discord account.
+Sistema para limpar a lista de amigos na conta do seu discord.
 
 Para instalar as dependências.
 
